@@ -1,5 +1,5 @@
 var indexSectionsWithContent = {
-   "General": {
+   "Functions": {
       "Symbols": false,
       "Numbers": false,
       "A": true,
@@ -29,7 +29,7 @@ var indexSectionsWithContent = {
       "Y": false,
       "Z": false
       },
-   "Functions": {
+   "General": {
       "Symbols": false,
       "Numbers": false,
       "A": true,
